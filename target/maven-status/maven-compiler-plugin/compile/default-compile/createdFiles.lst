@@ -1,0 +1,6 @@
+app\CurrencyExchangeApplication.class
+model\CurrencyResponse.class
+servlet\CurrencyApiServlet.class
+servlet\CurrencyServlet.class
+client\CurrencyApiClient.class
+service\CurrencyService.class
